@@ -1,16 +1,20 @@
-### Hi there 👋
+<img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" alt="top" />
+<h1 align="center">I'm Tanay Choube</h1>
+<!-- <h3 align="center">A passionate Full Stack Web Developer from Bharatpur, Rajasthan.</h3> -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Profile;Self+Motivated;Problem+Solver;&color=teal&center=true" />
+</div>
+<hr>
+<h3 align="center">When something is important enough, you do it even if the odds are not in your favor.</h3>
+- 🔭 I’m currently working on:👉 personal portfolio
 
-<!--
-**tanaymo7/tanaymo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning :👉**react, vue, blockchain**
 
-Here are some ideas to get you started:
+- 💬 Ask me about :👉**c++, python, Html, CSS, JS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects :👉**personal website under devlopment...**
+
+- ⏳ In spare time I use :👉**Ps, maya, zbrush**
+
+
+<hr>
